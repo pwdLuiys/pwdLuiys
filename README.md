@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✈️I do speak mainly two languages:<br>Portuguese (Main/Native)<br>English (Intermediary)<br><br>Love the Souls Like: Elden Ring, Dark Souls Seris, BloodBorne, Sekiro, Demon Souls... Just the best game style.<br><br>🖥️For the main OS is Arch Linux and i also use Windows 11 (I'm developing a program to update all system drivers and firmware, and also download any pending software such as VC++, DirectX, .NET Framework, etc.)<br><br>📔I'm also pursuing a bachelor's degree in Computer Science, and of course, to solidify my knowledge, I'm also taking another online course at Harvard, the famous CS50.</p>
+<p align="left">I do speak mainly two languages:<br>Portuguese (Main/Native)<br>English (Intermediary)<br><br>Love the Souls Like: Elden Ring, Dark Souls Seris, BloodBorne, Sekiro, Demon Souls... Just the best game style.<br><br>For my main OS i use Arch Linux and i also using Windows 11 (I'm developing a program to update all system drivers and firmware, and also download any pending software such as VC++, DirectX, .NET Framework, etc.)<br><br>I'm also pursuing a bachelor's degree in Computer Science, and of course, to solidify my knowledge, I'm also taking another online course at Harvard, the famous CS50.<br>The Python for Everybody Specialization from the University of Michigan<br>And im gonna start soon the back-end specialization from IBM. </p>
 
 ###
 
